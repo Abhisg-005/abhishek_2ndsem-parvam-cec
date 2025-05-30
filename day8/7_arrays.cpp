@@ -26,7 +26,7 @@ int main(){
 
     Student Students[4];
     
-     new for (int i = 0; i < 4; i++)
+     for (int i = 0; i < 4; i++)
     {
         Students[i].input();
         Students[i].display();
