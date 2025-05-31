@@ -1,0 +1,60 @@
+Project Description
+===================
+
+Eligibilty: 
+10th 12th Cerificate or relevant degree certificate
+valid id proof(adhaar)
+caste certificate(if applicable)
+Bank details(for fee payment)
+PWBD certificate(if applicable)
+
+student registration:
+name
+DOB
+gender
+contact
+email
+category
+
+Subject Selection:
+section:science and technolgy(medical, Engineering)
+physics
+chemistry
+mathematics
+biology(if applicable)
+Computer science
+Engineering Graphics
+Environmental Studies
+
+section:Commerce and Business
+Accountancy
+Business studies 
+Economics
+Enterprenurship
+
+section:Arts
+History
+Political Science 
+Geography
+Sociology
+Psycology
+
+Uniersity Prefernce:
+Banaglore University
+PES University
+Ramaiah Uniersity
+RV University
+Dayanand sagar University
+AMC University
+Rajarajeshwari University
+DONBOSCO University
+
+Generate Registration slip:
+Application number
+password or DOB
+save registration file
+display confirmation message
+
+Admin Panel:
+View All Registerd Students
+
