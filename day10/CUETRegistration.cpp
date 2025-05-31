@@ -35,6 +35,7 @@ class Examregistration{
     }
 
     void RegisterDetails(){
+
         cout<<"Name >> "<<endl;
         getline(cin,name);
 
@@ -48,7 +49,7 @@ class Examregistration{
         cin>>dob;
 
         cout<<"Category >> "<<endl;
-        cin>>category;
+        getline(cin,category);
 
         cout<<"Application Number >> "<<endl;
         cin>>app_no;
